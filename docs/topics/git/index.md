@@ -4,7 +4,7 @@
 </section>
 
 # Introduction
-- **Documentation**: [GIT Documentation](../../documentation.md#xxxx-xxxx)
+- **Documentation**: [GIT Documentation](../../documentation.md#version-control-systems--github)
 - **Key Terminologies**: [GIT Key Terminologies](./key-terminologies.md)
 - **Versions and major feature introduced**:[versions and major features](./version-and-major-features.md)
 - **FAQs**: [GIT FAQs](./FAQs.md)
